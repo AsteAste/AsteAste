@@ -35,7 +35,7 @@
   <a href="https://github.com/AsteAste/projectt">
     <img src="https://img.shields.io/badge/-Meu%20Projeto%20Flask-%234C4C4C?style=for-the-badge&logo=flask&logoColor=white" target="_blank">
   </a>
-  <a href="https://github.com/AsteAste/methodo-variacional-code">
+  <a href="https://github.com/AsteAste/metodo_variacional_2">
     <img src="https://img.shields.io/badge/-Método%20Variacional-%23335B5B?style=for-the-badge&logo=python&logoColor=white" target="_blank">
   </a>
 </div>
